@@ -12,7 +12,7 @@ permalink: /
 
 ### 内山悠里菜（ゆりにゃ）
 メンバーカラー：薄ピンク  
-X(旧Twitter)
+[X(旧Twitter)](https://x.com/uchiyama_yurina)
 
 ### 稗田寧々（ねーね）
 メンバーカラー：黄色  
@@ -20,27 +20,27 @@ X(旧Twitter)
 
 ### 守屋亨香（きょんちゃん）
 メンバーカラー：緑色  
-X(旧Twitter)
+[X(旧Twitter)](https://x.com/kyoka_moriya)
 
 ### 緒方佑奈（ゆーな）
 メンバーカラー：青色  
-X(旧Twitter)
+
 
 ### 鷹村彩花（やかん）
 メンバーカラー：オレンジ  
-X(旧Twitter)
+[X(旧Twitter)]()
 
 ### 宮原颯希（さっぴ）
 メンバーカラー：濃ピンク  
-X(旧Twitter)
+[X(旧Twitter)]()
 
 ### 飯塚麻結（まゆゆん）
 メンバーカラー：水色  
-X(旧Twitter)
+[X(旧Twitter)]()
 
 ### 村上まなつ（まなてぃー）
 メンバーカラー：紫色  
-X(旧Twitter)
+[X(旧Twitter)]()
 
 
 ---
