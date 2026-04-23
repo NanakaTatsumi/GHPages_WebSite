@@ -1,11 +1,11 @@
 ---
-title: "DIALOGUEとは！"
+title: "DIALOGUE＋とは"
 author: default
 permalink: /
 ---
 
 # DIALOGUE
-[公式サイト](https://dialogue-music.jp/)  
+[オフィシャルサイト](https://dialogue-music.jp/)  
 [X(旧Twitter)](https://x.com/DIALOGUE_staff)
 
 ## メンバー
