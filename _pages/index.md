@@ -12,8 +12,8 @@ permalink: /
 
 ### 内山悠里菜（ゆりにゃ）
 メンバーカラー：薄ピンク  
-[X(旧Twitter)](https://x.com/uchiyama_yurina)
-![image](/assets/images/uchiyama_pthoto_23.png)
+[X(旧Twitter)](https://x.com/uchiyama_yurina)  
+![image](GHPages_WebSite/assets/images/uchiyama_pthoto_23.png)
 
 ### 稗田寧々（ねーね）
 メンバーカラー：黄色  
