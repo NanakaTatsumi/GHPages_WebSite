@@ -1,11 +1,11 @@
 ---
-title: "ここにページのタイトル"
+title: "DIALOGUEとは！"
 author: default
 permalink: /
 ---
 
 # DIALOGUE
-公式サイト：[https://dialogue-music.jp/]
+公式サイト：[https://dialogue-music.jp/]  
 X(旧Twitter)：[https://x.com/DIALOGUE_staff]
 
 ## メンバー
