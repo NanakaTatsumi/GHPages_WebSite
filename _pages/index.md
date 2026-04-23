@@ -4,7 +4,7 @@ author: default
 permalink: /
 ---
 
-# DIALOGUE
+# DIALOGUE＋
 [オフィシャルサイト](https://dialogue-music.jp/)  
 [X(旧Twitter)](https://x.com/DIALOGUE_staff)
 
@@ -13,6 +13,7 @@ permalink: /
 ### 内山悠里菜（ゆりにゃ）
 メンバーカラー：薄ピンク  
 [X(旧Twitter)](https://x.com/uchiyama_yurina)
+![image](
 
 ### 稗田寧々（ねーね）
 メンバーカラー：黄色  
